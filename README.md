@@ -8,7 +8,6 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
 😄 - Pronouns: He/Him.  
 🌱 - I’m currently learning front-end technologies.  
 🔭 - Currently working on personal and academic projects.  
-📫 - How to reach me: diegolvf.profissional@gmail.com | www.linkedin.com/in/diegolvf  
 ##
 
 <div><br>
