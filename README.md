@@ -1,7 +1,7 @@
 ## Hi! I’m Diego Leão 👾
 I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest in **Front-End Development** and creating intuitive, user-focused interfaces.
 
-🌏 - From Brazil.  
+🌏 - Brazilian.  
 🎮 - Gamer.  
 🎵 - Classic rock & 70s, 80s, and 90s music 🤘🏻.  
 🐶 & 🐱 - Pet lover.  
