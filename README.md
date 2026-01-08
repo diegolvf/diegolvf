@@ -2,7 +2,7 @@
 I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest in **Front-End Development** and creating intuitive, user-focused interfaces.
 
 🌏 - Brazilian.  
-🎮 - Gamer.  
+🎮 - Retrogaming.  
 🎵 - Classic rock & 70s, 80s, and 90s music 🤘🏻.  
 🐶 & 🐱 - Pet lover.  
 😄 - Pronouns: He/Him.  
