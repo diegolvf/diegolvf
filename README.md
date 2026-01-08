@@ -7,7 +7,7 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
 🐶 & 🐱 - Pet lover.  
 😄 - Pronouns: He/Him.  
 🌱 - I’m currently learning front-end technologies.  
-🔭 - Currently working on personal and academic projects.  
+🔭 - Working on personal and academic projects.  
 ##
 
 <div><br>
