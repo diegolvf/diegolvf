@@ -11,9 +11,9 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
 ##
 
 <div><br>
-<img src="https://github-stats-diegolvf.vercel.app/api?username=diegolvf&show_icons=true&theme=radical&hide_title=true" width="420" />
-<img width="20" />
-<img src="https://github-stats-diegolvf.vercel.app/api/top-langs/?username=diegolvf&layout=compact&theme=radical&hide_title=true" width="333" />
+  <img src="https://github-stats-diegolvf.vercel.app/api?username=diegolvf&show_icons=true&theme=radical&hide_title=true" alt="Diego-GitHub Stats" width="420" />
+  <img width="20" />
+  <img src="https://github-stats-diegolvf.vercel.app/api/top-langs/?username=diegolvf&layout=compact&theme=radical&hide_title=true" alt="Diego-Top Languages" width="333" />
 </div>
 
 ##
@@ -36,6 +36,11 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
   <a href="www.linkedin.com/in/diegolvf" target="_blank"><img alt="Diego-Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" /></a>
   <a href="mailto:diegolvf.profisssional@gmail.com"><img alt="Diego-Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
 </div>
+
+<div align="center"><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+</div>
+
 
 
 
