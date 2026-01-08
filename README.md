@@ -8,7 +8,8 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
 😄 - Pronouns: He/Him.  
 🌱 - I’m currently learning front-end technologies.  
 🔭 - Working on personal and academic projects.  
-##
+
+## My Stats
 
 <div><br>
   <img src="https://github-stats-diegolvf.vercel.app/api?username=diegolvf&show_icons=true&theme=radical&hide_title=true" alt="Diego-GitHub Stats" width="420" />
@@ -16,7 +17,7 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
   <img src="https://github-stats-diegolvf.vercel.app/api/top-langs/?username=diegolvf&layout=compact&theme=radical&hide_title=true" alt="Diego-Top Languages" width="333" />
 </div>
 
-##
+## Studying
 
 <div style="display: inline_block"><br>
   <img alt="Diego-Html" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
@@ -30,7 +31,7 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
   <img alt="Diego-My_sql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-##
+## Contact me
 
 <div><br>
   <a href="www.linkedin.com/in/diegolvf" target="_blank"><img alt="Diego-Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" /></a>
