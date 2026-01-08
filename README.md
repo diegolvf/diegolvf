@@ -31,7 +31,7 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
   <img alt="Diego-My_sql" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
-## Contact me
+## Contact Me
 
 <div><br>
   <a href="www.linkedin.com/in/diegolvf" target="_blank"><img alt="Diego-Linkedin" src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank" /></a>
