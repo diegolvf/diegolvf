@@ -38,7 +38,7 @@ I’m an **IT student** (4th semester) at **FATEC Itu**, with a strong interest 
 </div>
 
 <div align="center"><br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" />
+  <img src="assets/banner02.png" width="100%" />
 </div>
 
 
